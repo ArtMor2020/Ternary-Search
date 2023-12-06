@@ -1,0 +1,15 @@
+/home/arthur/Downloads/Ternary-Search/Ternary Search/bin/Debug/net7.0/Ternary Search
+/home/arthur/Downloads/Ternary-Search/Ternary Search/bin/Debug/net7.0/Ternary Search.deps.json
+/home/arthur/Downloads/Ternary-Search/Ternary Search/bin/Debug/net7.0/Ternary Search.runtimeconfig.json
+/home/arthur/Downloads/Ternary-Search/Ternary Search/bin/Debug/net7.0/Ternary Search.dll
+/home/arthur/Downloads/Ternary-Search/Ternary Search/bin/Debug/net7.0/Ternary Search.pdb
+/home/arthur/Downloads/Ternary-Search/Ternary Search/obj/Debug/net7.0/Ternary Search.csproj.AssemblyReference.cache
+/home/arthur/Downloads/Ternary-Search/Ternary Search/obj/Debug/net7.0/Ternary Search.GeneratedMSBuildEditorConfig.editorconfig
+/home/arthur/Downloads/Ternary-Search/Ternary Search/obj/Debug/net7.0/Ternary Search.AssemblyInfoInputs.cache
+/home/arthur/Downloads/Ternary-Search/Ternary Search/obj/Debug/net7.0/Ternary Search.AssemblyInfo.cs
+/home/arthur/Downloads/Ternary-Search/Ternary Search/obj/Debug/net7.0/Ternary Search.csproj.CoreCompileInputs.cache
+/home/arthur/Downloads/Ternary-Search/Ternary Search/obj/Debug/net7.0/Ternary Search.dll
+/home/arthur/Downloads/Ternary-Search/Ternary Search/obj/Debug/net7.0/refint/Ternary Search.dll
+/home/arthur/Downloads/Ternary-Search/Ternary Search/obj/Debug/net7.0/Ternary Search.pdb
+/home/arthur/Downloads/Ternary-Search/Ternary Search/obj/Debug/net7.0/Ternary Search.genruntimeconfig.cache
+/home/arthur/Downloads/Ternary-Search/Ternary Search/obj/Debug/net7.0/ref/Ternary Search.dll

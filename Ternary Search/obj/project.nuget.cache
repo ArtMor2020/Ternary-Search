@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yIXgI4K6tPCXyvBGnTvTyXcucMkB8W9adiRpjQqS48E4GXM29L00FOuHNC9184/7mbBGAPlWtSI+NcYBxbJcow==",
+  "dgSpecHash": "xCY85bPuzqQqkofCBgU7GVK6wT1uJ8CLaVK2ig32RKqmIO1cj9ti9RhjVE863ATdyQOdXTGNaT6Jzi5u6yDk1w==",
   "success": true,
-  "projectFilePath": "/home/arthur/Downloads/Ternary Search/Ternary Search.csproj",
+  "projectFilePath": "/home/arthur/Downloads/Ternary-Search/Ternary Search/Ternary Search.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

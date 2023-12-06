@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/arthur/Downloads/Ternary Search/Ternary Search.csproj",
+      "projectUniqueName": "/home/arthur/Downloads/Ternary-Search/Ternary Search/Ternary Search.csproj",
       "projectName": "Ternary Search",
-      "projectPath": "/home/arthur/Downloads/Ternary Search/Ternary Search.csproj",
+      "projectPath": "/home/arthur/Downloads/Ternary-Search/Ternary Search/Ternary Search.csproj",
       "packagesPath": "/home/arthur/.nuget/packages/",
-      "outputPath": "/home/arthur/Downloads/Ternary Search/obj/",
+      "outputPath": "/home/arthur/Downloads/Ternary-Search/Ternary Search/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/arthur/.nuget/NuGet/NuGet.Config"
