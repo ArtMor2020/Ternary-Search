@@ -47,36 +47,33 @@ public class Program
     {
         int esquerda, direita, posicao, chave;
  
-        // Get the array
-        // Sort the array if not sorted
+        // Lista
         int[] lista = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
  
-        // Starting index
+        // Começo da lista
         esquerda = 0;
  
-        // end element index
+        // Fim da Lista
         direita = 9;
  
-        // Checking for 5
  
-        // Key to be searched in the array
+        // Chave a ser buscada
         chave = 5;
  
-        // Search the key using ternarySearch
+        // Busca da chave
         posicao = TernarySearch(esquerda, direita, chave, lista);
  
-        // Print the result
+        // Exibir resultado da busca no terminal
         Console.WriteLine("A posição de " + chave + " é " + posicao);
  
-        // Checking for 50
- 
-        // Key to be searched in the array
+
+        // Chave fora da lista a ser buscada
         chave = 50;
  
-        // Search the key using ternarySearch
+        // Busca da chave
         posicao = TernarySearch(esquerda, direita, chave, lista);
  
-        // Print the result
+        // Exibir resultado da busca no terminal
         Console.WriteLine("A posição de " + chave + " é " + posicao);
     }
 }
